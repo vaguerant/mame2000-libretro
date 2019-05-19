@@ -741,6 +741,10 @@ TESTDRIVER( kengo )
 	DRIVER( sichuan2 )	/* (c) 1989 Tamtex */
 	DRIVER( sichuana )	/* (c) 1989 Tamtex */
 	DRIVER( shisen )	/* (c) 1989 Tamtex */
+	/* M90 */
+TESTDRIVER( hasamu )
+	DRIVER( bombrman )	/* (c) 1991 Irem (Japan) */
+TESTDRIVER( dynablsb )	/* bootleg */
 	/* M92 */
 	DRIVER( bmaster )	/* (c) 1991 Irem */
 	DRIVER( gunforce )	/* (c) 1991 Irem (World) */
@@ -764,12 +768,13 @@ TESTDRIVER( leaguemn )	/* (c) 1993 Irem (Japan) */
 	DRIVER( thndblst )	/* (c) 1991 Irem (Japan) */
 	DRIVER( psoldier )	/* (c) 1993 Irem (Japan) */
 	/* M97 */
+	DRIVER( bbmanw )	/* (c) 1992 Irem (World) */
+	DRIVER( bbmanwj )
+	DRIVER( atompunk )	/* (c) 1992 Irem America (US) */
+TESTDRIVER( quizf1 )
 TESTDRIVER( riskchal )
 TESTDRIVER( gussun )
 TESTDRIVER( shisen2 )
-TESTDRIVER( quizf1 )
-TESTDRIVER( atompunk )
-TESTDRIVER( bbmanw )
 	/* M107 */
 TESTDRIVER( firebarr )	/* (c) 1993 Irem (Japan) */
 	DRIVER( dsoccr94 )	/* (c) 1994 Irem (Data East Corporation license) */

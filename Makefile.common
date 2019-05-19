@@ -332,6 +332,10 @@ SOURCES_C += $(CORE_DIR)/src/drivers/m72.c
 
 SOURCES_C += $(CORE_DIR)/src/drivers/shisen.c
 
+SOURCES_C += $(CORE_DIR)/src/machine/irem_cpu.c \
+				 $(CORE_DIR)/src/drivers/m90.c \
+				 $(CORE_DIR)/src/drivers/m97.c
+
 SOURCES_C += $(CORE_DIR)/src/drivers/m92.c
 
 SOURCES_C += $(CORE_DIR)/src/drivers/m107.c
